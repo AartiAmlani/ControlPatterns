@@ -1,0 +1,15 @@
+{
+  "name": "may22controlpatterns",
+  "version": "1.0.0",
+  "description": "Control Structures of JavaScript",
+  "main": "repeatition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aarti",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
